@@ -27,6 +27,6 @@ A Python-based application that allows users to encrypt and decrypt files using 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/voice-encryption-system.git
+git clone https://github.com/Suru030/voice-encryption-system.git
 cd voice-encryption-system
 pip install -r requirements.txt
